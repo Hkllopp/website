@@ -1,0 +1,81 @@
+{
+    "App": {
+        "HomeTitle": "Welcome to BAR Augustin's website",
+        "HomeSubtitle": "This website acts both as a presentation of his professional and personnal activity",
+        "NavigationTitle": "Navigation",
+        "HomePageLabel": "Home",
+        "ProfessionalPageLabel": "Professional",
+        "PersonnalPageLabel": "Personnal"
+    },
+    "Home": {
+        "WhatToFindTitle": "What to find ?",
+        "WhatToFindContent": "<p>Welcome to my website, which serves as both a portfolio and a blog.</p><p>You will find everything you need to know about me in the dedicated pages, which you can find by clicking here. However, if you want to know more, you can always contact me by finding my contact information in the appropriate page (professional or personal contact).</p><p>If you want to know more about my academic background, the projects I've been involved in and my skills and knowledge, please visit my professional page.</p><p>On the other hand, if you want to learn more about me, the passions that make me live and the convictions that inspire me, I suggest you go to my professional page.</p><p>This site was entirely designed by myself, and you can find the whole code on my GitHub page.</p><p>Enjoy your visit!</p>",
+        "AboutMeTitle": "About me",
+        "AboutMeContent": "<p>I currently live in Lyon, a city in which I decided to settle for a few years to take advantage of its dynamism. I have lived in several other cities in the Rhone-Alpes region during my studies, and in the future, I plan to move abroad to enjoy the world.</p><p>Despite my studies in computer engineering, I don't define myself as a scientist or a technician and I find it difficult to restrict myself to a single field of activity or to a single passion. I have a strong appeal to science and logic but this does not prevent me from loving cinema, piano and drawing.</p><p>I do not intend to revolutionize the world but rather to make it better, at my level, by using my sensitivities and my knowledge.</p><p>For me, being curious and open-minded is essential to any complete human being and I think that one must know how to reconcile humility and assertiveness in order to forge their personality, knowledge and coherent opinions. Listening and debating are two essential elements for change, as long as they are done with a sincere intention, built on respect and desire for change.</p><p>I do not plan my life at work, destroying myself overtime. However, I will give my best to projects that I believe in, that follow my values and that can provide me with stimulating challenges. I am not willing to enrich shareholders and multinationals and I will carefully select the people I want to work with. I prefer a modest but fulfilling life rather than a generous salary that contradicts my morals.</p><p>I will always be honored to meet people and share knowledge; it is inconceivable for me to go it alone.</p>"
+    },
+    "Pro": {
+        "Resume": {
+            "Education": {
+                "Title": "Formations",
+                "Content": [
+                    {
+                        "Title": "Diplôme d'Ingénieur IA",
+                        "Location": "OpenClassrooms",
+                        "Date": "2021",
+                        "Content": [
+                            "Application des bases de la Data Science, comme la collecte et la préparation des données.",
+                            "Programmation d'algorithmes de Machine Learning et de Deep Learning.",
+                            "Développement de modèles grâce aux services Microsoft Azure.",
+                            "Déploiement d'algorithmes en production sur le cloud.",
+                            "Supervision de la conception d’un produit IA."
+                        ]
+                    },
+                    {
+                        "Title": "Diplôme d'ingénieur",
+                        "Location": "CPE Lyon",
+                        "Date": "2019-2021",
+                        "Content": [
+                            "Filière Informatique et Réseaux de communication, spécialité Robotique et Embarqué (en alternance)",
+                            "Projet de fin d'étude (100h) sur le sujet \"Apprentissage rapide et reconnaissance d'objets grâce au transfer learning et à la data augmentation\"",
+                            "Apprentissage (classe et autonomie) des principes fondamentaux des réseaux de neurones, du machine learning et de l'IA. Exposé de 30mn"
+                        ]
+                    },
+                    {
+                        "Title": "Diplôme DUT GEII",
+                        "Location": "IUT de Saint-Étienne",
+                        "Date": "2018-2019",
+                        "Content": [
+                            "Filière Informatique et Réseaux de communication, spécialité Robotique et Embarqué (en alternance)",
+                            "Projet de fin d'étude (100h) sur le sujet \"Apprentissage rapide et reconnaissance d'objets grâce au transfer learning et à la data augmentation\"",
+                            "Apprentissage (classe et autonomie) des principes fondamentaux des réseaux de neurones, du machine learning et de l'IA. Exposé de 30mn"
+                        ]
+                    }
+                ]
+            },
+            "Experiences": {
+                "Title": "Expériences professionnelles",
+                "Content": [
+                    {
+                        "Title": "Consultant Technique Salesforce",
+                        "Location": "FLOWLINE INTEGRATION",
+                        "Date": "2018-2021",
+                        "Content": [
+                            "Conception et intégration d'une solution CRM complète avec des outils de gestion commerciale, ticketing et plannification. Réalisé grâce au CRM Salesforce.",
+                            "Conception d'une architecture complexe basée sur un modèle MVC avec des triggers, classes et composants ligthning (Aura et LWC). Utilisation du langage Apex (Java-like) et Javascript.",
+                            "Obtention de deux certification, Administrateur et Développer I, suite à une formation sur une plateforme d'e-learning : Trailhead."
+                        ]
+                    },
+                    {
+                        "Title": "Technicien informatique industrielle",
+                        "Location": "Courbon",
+                        "Date": "2018",
+                        "Content": [
+                            "Réduction de la charge d'automates via la conception et l'intégration d'un processus d'historisation des logs.",
+                            "Optimisation des procédures et migration d'une base de donnée (Oracle Database → Microsoft SQL Server)."
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

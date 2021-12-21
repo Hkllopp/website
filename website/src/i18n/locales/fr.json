@@ -1,0 +1,81 @@
+{
+    "App": {
+        "HomeTitle": "Bienvenue sur le site d'Augustin BAR",
+        "HomeSubtitle": "Ce site constitue à la fois une présentation de mon activité professionnelle mais également personelle",
+        "NavigationTitle": "Navigation",
+        "HomePageLabel": "Accueil",
+        "ProfessionalPageLabel": "Professionnel",
+        "PersonnalPageLabel": "Personnel"
+    },
+    "Home": {
+        "WhatToFindTitle": "Que trouver sur ce site ?",
+        "WhatToFindContent": "<p>Bienvenue sur mon site internet, qui fait autant office de portefolio que de blog.</p><p>Vous trouverez tout ce dont vous avez besoin de savoir sur moi dans les pages dédiées, que vous pouvez retrouver en cliquant ici. Cependant, si vous souhaitez en savoir plus, vous pouvez toujours me contacter en trouvant mes coordonées dans la page adéquate (contact professionnel ou personnel).</p><p>Si vous cherchez à connaitre mon parcours universitaire, les projets auxquels j'ai pu participer ainsi que mes compétences et connaissances, rendez-vous sur ma page professionnelle.</p><p>A l'inverse, si vous voulez en apprendre plus sur moi, les passions qui me font vivre et les convictions qui me font viper, je vous propose de vous diriger vers ma page personnelle.</p><p></p><p>Ce site a été entièrement concu par moi-même, et vous pourrez retrouver le code et sur ma page GitHub.</p><p></p><p></p><p>Bonne visite !</p>",
+        "AboutMeTitle": "A propos",
+        "AboutMeContent": "<p>Je m'appelle Augustin BAR et j'ai 24 ans.</p><p>J'habite actuellement à Lyon, ville dans laquelle j'ai décidé de m'installer quelques années pour profiter de sa dynamique. J'ai vécu dans plusieurs autres villes de la région Rhônes-Alpes durant mes études, et à l'avenir, j'envisage de déménager à l'étranger pour profiter du monde.</p><p>Malgré mes études d'ingénieur informatique, je ne me définis pas uniquement comme un scientifique ou un technique et j'ai du mal à me restreindre à un seul domaine d'activité ou à une passion. J'ai un fort attrait pour les sciences et la logique mais cela ne m'empêche pas de me passionner pour le cinéma, le piano ou le dessin.</p><p>Je n'ai pas l'intention de révolutionner le monde mais plutôt de le rendre meilleur, à mon échelle, en mettant à profit mes sensibilités et mes connaissances.</p><p>Pour moi, être curieux et ouvert d'esprit est indispensable à tout être humain complet et je pense qu'il faut savoir concilier humilité et affirmation pour se forger une personnalité, des connaissances et des avis cohérents. L'écoute et le débat sont deux éléments essentiels au changement, tant qu'ils sont faits avec une intention sincère, batie de respect et d'envie de changement.</p><p>Je ne concois pas ma vie au travail, à me détruire durant des heures supplémentaires. Par contre, je donnerai le meilleur de moi-même dans des projets dans lesquels j'ai foi, qui suivent mes valeurs et savent me fournir des défis stimulants. Je ne suis pas prêt à enrichir des actionnaires et des multinationnales et je sélectionnerai minutieusement les gens avec qui je veux travailler. Je préfère une vie modeste mais épanouissante plutôt qu'un salaire généreux mais qui rentre en contradiction avec ma morale.</p><p>Je serai toujours honoré de rencontrer du monde et de partager nos connaissances, c'est pour moi inconcevable d'avancer seul.</p>"
+    },
+    "Pro": {
+        "Resume": {
+            "Education": {
+                "Title": "Formations",
+                "Content": [
+                    {
+                        "Title": "Diplôme d'Ingénieur IA",
+                        "Location": "OpenClassrooms",
+                        "Date": "2021",
+                        "Content": [
+                            "Application des bases de la Data Science, comme la collecte et la préparation des données.",
+                            "Programmation d'algorithmes de Machine Learning et de Deep Learning.",
+                            "Développement de modèles grâce aux services Microsoft Azure.",
+                            "Déploiement d'algorithmes en production sur le cloud.",
+                            "Supervision de la conception d’un produit IA."
+                        ]
+                    },
+                    {
+                        "Title": "Diplôme d'ingénieur",
+                        "Location": "CPE Lyon",
+                        "Date": "2019-2021",
+                        "Content": [
+                            "Filière Informatique et Réseaux de communication, spécialité Robotique et Embarqué (en alternance)",
+                            "Projet de fin d'étude (100h) sur le sujet \"Apprentissage rapide et reconnaissance d'objets grâce au transfer learning et à la data augmentation\"",
+                            "Apprentissage (classe et autonomie) des principes fondamentaux des réseaux de neurones, du machine learning et de l'IA. Exposé de 30mn"
+                        ]
+                    },
+                    {
+                        "Title": "Diplôme DUT GEII",
+                        "Location": "IUT de Saint-Étienne",
+                        "Date": "2018-2019",
+                        "Content": [
+                            "Filière Informatique et Réseaux de communication, spécialité Robotique et Embarqué (en alternance)",
+                            "Projet de fin d'étude (100h) sur le sujet \"Apprentissage rapide et reconnaissance d'objets grâce au transfer learning et à la data augmentation\"",
+                            "Apprentissage (classe et autonomie) des principes fondamentaux des réseaux de neurones, du machine learning et de l'IA. Exposé de 30mn"
+                        ]
+                    }
+                ]
+            },
+            "Experiences": {
+                "Title": "Expériences professionnelles",
+                "Content": [
+                    {
+                        "Title": "Consultant Technique Salesforce",
+                        "Location": "FLOWLINE INTEGRATION",
+                        "Date": "2018-2021",
+                        "Content": [
+                            "Conception et intégration d'une solution CRM complète avec des outils de gestion commerciale, ticketing et plannification. Réalisé grâce au CRM Salesforce.",
+                            "Conception d'une architecture complexe basée sur un modèle MVC avec des triggers, classes et composants ligthning (Aura et LWC). Utilisation du langage Apex (Java-like) et Javascript.",
+                            "Obtention de deux certification, Administrateur et Développer I, suite à une formation sur une plateforme d'e-learning : Trailhead."
+                        ]
+                    },
+                    {
+                        "Title": "Technicien informatique industrielle",
+                        "Location": "Courbon",
+                        "Date": "2018",
+                        "Content": [
+                            "Réduction de la charge d'automates via la conception et l'intégration d'un processus d'historisation des logs.",
+                            "Optimisation des procédures et migration d'une base de donnée (Oracle Database → Microsoft SQL Server)."
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}
